@@ -1,5 +1,2 @@
-require "rectangle/version"
+require "rectangle/perimeter"
 
-module Rectangle
-  # Your code goes here...
-end
